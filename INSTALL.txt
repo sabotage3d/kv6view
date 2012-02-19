@@ -1,0 +1,2 @@
+kv6view's only dependency is GLEW. Put the GLEW library for your platform
+into 'lib'.
